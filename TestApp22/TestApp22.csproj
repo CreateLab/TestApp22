@@ -8,4 +8,8 @@
         <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\AnalyzerTest11\AnalyzerTest11.csproj" />
+    </ItemGroup>
+
 </Project>
